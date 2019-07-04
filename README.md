@@ -18,6 +18,10 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 - [Maarten Breddels](https://github.com/maartenbreddels)
 - [Jovan Veljanoski](https://github.com/JovanVeljanoski)
 
+[Modin](https://github.com/modin-project/modin) Scaling pandas with [Ray](https://github.com/ray-project/ray/)
+
+- [Devin Petersohn](https://github.com/devin-petersohn)
+
 [Koalas](https://github.com/databricks/koalas) pandas API on Apache Spark
 
 - [Timothy Hunter](https://github.com/thunterdb)

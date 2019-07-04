@@ -37,4 +37,4 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 
 ## Agenda
 
-Please [create an issue](https://github.com/python-sprints/dataframe-summit/issues/new) with any topic you would like to discuss or work on in the sessions.
+Please [create an issue](https://github.com/python-sprints/dataframe-summit/issues/new) with any topic you would like to discuss or work on during the sessions.

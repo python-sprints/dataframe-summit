@@ -33,7 +33,7 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 ## Sessions
 
 - Maintainers session (discussion): Thursday, 5 September, 10:30 - 12:30
-- Dataframes sprint (hands on technical session): Friday, 6 September, 10 - 18:30
+- Dataframes sprint (hands on technical session): Friday, 6 September, 10:00 - 18:30
 
 ## Agenda
 

@@ -22,13 +22,10 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 
 - [Devin Petersohn](https://github.com/devin-petersohn)
 
-**[Koalas](https://github.com/databricks/koalas)** pandas API on Apache Spark
+**[xframe](https://github.com/QuantStack/xframe)** DataFrame library in C++
 
-- [Timothy Hunter](https://github.com/thunterdb)
-
-**[cuDF](https://github.com/rapidsai/cudf)** GPU DataFrame Library
-
-- TBC
+- [Martin Renou](https://github.com/martinRenou)
+- [Sylvain Corlay](https://github.com/SylvainCorlay)
 
 ## Sessions
 

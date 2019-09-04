@@ -28,6 +28,13 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 - [Martin Renou](https://github.com/martinRenou)
 - [Sylvain Corlay](https://github.com/SylvainCorlay)
 
+**[Miró](http://stochasticsolutions.com/miro.html)**
+(12-year old Python-based Analytical Framework based on Numpy)
+
+- [Nick Radcliffe](https://github.com/njr0) and [TDDA](https://github.com/tdda)
+- (Will try to update Miró page to include a little more techinical info ahead of session.)
+
+
 ## Sessions
 
 - Maintainers session (discussion): Thursday, 5 September, 10:30 - 12:30

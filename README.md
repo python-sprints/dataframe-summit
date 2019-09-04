@@ -34,6 +34,10 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 - [Nick Radcliffe](https://github.com/njr0) and [TDDA](https://github.com/tdda)
 - (Will try to update Miró page to include a little more techinical info ahead of session.)
 
+**[Apache Arrow](https://arrow.apache.org/)** Cross-language tools based on a columnar memory layout standard
+
+- [Joris Van den Bossche](https://github.com/jorisvandenbossche)
+
 
 ## Sessions
 

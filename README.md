@@ -11,6 +11,8 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 
 **[Dask](https://github.com/dask/dask)** Parallel computing with task scheduling
 
+- [Jacob Tomlinson](https://github.com/jacobtomlinson)
+- [John Kirkham](https://github.com/jakirkham)
 - [Peter Andreas Entschev](https://github.com/pentschev)
 
 **[Vaex](https://github.com/vaexio/vaex)** Out-of-Core DataFrames for Python

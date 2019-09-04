@@ -21,6 +21,7 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 **[Modin](https://github.com/modin-project/modin)** Scaling pandas with [Ray](https://github.com/ray-project/ray/)
 
 - [Devin Petersohn](https://github.com/devin-petersohn)
+- [William Ma](https://github.com/williamma12)
 
 **[xframe](https://github.com/QuantStack/xframe)** DataFrame library in C++
 

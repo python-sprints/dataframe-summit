@@ -50,6 +50,12 @@ More info about the maintainers session: https://www.euroscipy.org/2019/maintain
 
 Please [create an issue](https://github.com/python-sprints/dataframe-summit/issues/new) with any topic you would like to discuss or work on during the sessions.
 
+- Introductions / project descriptions and roadmaps (#2)
+- How to let users understand the ecosystem (#4)
+- Data formats, I/O connectors (#5)
+- Interoperability among dataframe libraries, and consumers, e.g. scikit-learn (#9)
+- Dream API (#3 and #6)
+
 ## Participate remotely
 
 There is a [Gitter channel](https://gitter.im/py-sprints/dataframe-summit) for people interested in joining the discussions, feel free to join and participate even if you are not able to attend EuroSciPy.

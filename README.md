@@ -61,3 +61,7 @@ Please [create an issue](https://github.com/python-sprints/dataframe-summit/issu
 There is a [Gitter channel](https://gitter.im/py-sprints/dataframe-summit) for people interested in joining the discussions, feel free to join and participate even if you are not able to attend EuroSciPy.
 
 If any company is interested in sponsoring the life streaming of the summit, please get in touch at <maintainers@euroscipy.org>.
+
+## Write up
+
+https://datapythonista.github.io/blog/dataframe-summit-at-euroscipy.html
